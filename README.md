@@ -1,3 +1,5 @@
+//in react-intro-class, type npm-install
+
 <img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
 
 # Project Summary
@@ -221,7 +223,7 @@ In this step we will create our `Calculator` component that will render in our c
 * Paste the following `JSX` layout inside the render method of the `Calculator` component. ( Found below )
   * <details>
     
-    <summary> <code> JSX Layout </code> </summary>
+    <summary> <code> JsSX Layout </code> </summary>
 
     ```jsx
     return (
